@@ -4,8 +4,6 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Bb]undles/
-/[Bb]undlesCache/
-/Assets/StreamingAssets*
 /Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
@@ -37,4 +35,3 @@ sysinfo.txt
 *.DS_Store
 .idea
 .vscode
-/Logs/
